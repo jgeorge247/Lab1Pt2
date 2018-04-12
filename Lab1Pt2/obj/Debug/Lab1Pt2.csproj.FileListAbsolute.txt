@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\Lab1Pt2\Lab1Pt2\bin\Debug\Lab1Pt2.exe.config
+C:\Users\justi\source\repos\Lab1Pt2\Lab1Pt2\bin\Debug\Lab1Pt2.exe
+C:\Users\justi\source\repos\Lab1Pt2\Lab1Pt2\bin\Debug\Lab1Pt2.pdb
+C:\Users\justi\source\repos\Lab1Pt2\Lab1Pt2\obj\Debug\Lab1Pt2.csprojResolveAssemblyReference.cache
+C:\Users\justi\source\repos\Lab1Pt2\Lab1Pt2\obj\Debug\Lab1Pt2.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Lab1Pt2\Lab1Pt2\obj\Debug\Lab1Pt2.exe
+C:\Users\justi\source\repos\Lab1Pt2\Lab1Pt2\obj\Debug\Lab1Pt2.pdb
